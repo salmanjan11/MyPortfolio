@@ -126,22 +126,22 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "University of Brescia",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      subHeader: "Master in Telecommunications and Multimedia",
+      duration: "September 2020 - October 2023",
+      desc: "My final research was on Brain tumour segmentation using Deep Learning Techniques",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "University of Engineering and Technology, Peshawar",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+      subHeader: "Bachelor of Science in Computer Systems Engineering",
+      duration: "September 2013 - October 2017",
+      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Operating Systems, Computer Architecure, Signal and Systems, Computer Security, Digital System Design ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
@@ -339,8 +339,8 @@ const talkSection = {
     {
       title: "Build Actions For Google Assistant",
       subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      slides_url: "https://bit.l",
+      event_url: "https://www.facebook.com//"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -354,7 +354,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    "https://anchor.fm/codevcast/embed/episodes/DevStory"
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -363,8 +363,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+393517892015",
+  email_address: "salmanjan.ipb@gmail.com"
 };
 
 // Twitter Section
