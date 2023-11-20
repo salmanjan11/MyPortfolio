@@ -147,7 +147,7 @@ const workExperiences = {
   experience: [
     {
       role: "Co-Founder",
-      company: "DOTs Studio",
+      company: "Dots Studio",
       companylogo: require("./assets/images/dotsstudio.png"),
       date: "June 2018 – Sept 2020",
       desc: ".",
