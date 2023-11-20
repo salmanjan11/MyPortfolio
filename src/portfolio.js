@@ -152,8 +152,8 @@ const workExperiences = {
       date: "June 2018 – Sept 2020",
       desc: ".",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Main role was to look over different projects, design UI of games, functionality and test" //, 
+        //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
     {
