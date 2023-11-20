@@ -183,8 +183,7 @@ const openSource = {
 
 // Some big projects you have worked on
 
-//Can add to the big projects later on.
-/*const bigProjects = {
+const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
@@ -212,8 +211,8 @@ const openSource = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
-};*/
+  display: false // Set false to hide this section, defaults to true
+};
 
 // Achievement Section
 // Include certificates, talks etc
@@ -273,7 +272,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -297,7 +296,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -316,7 +315,7 @@ const talkSection = {
       event_url: "https://www.facebook.com//"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -329,15 +328,15 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+393517892015",
-  email_address: "salmanjan.ipb@gmail.com"
+  number: "+39----------",
+  email_address: "salmanjan@gmail.com"
 };
 
 // Twitter Section
