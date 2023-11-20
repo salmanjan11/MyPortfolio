@@ -160,10 +160,11 @@ const workExperiences = {
       role: "Co-Founder",
       company: "Dots Studio",
       companylogo: require("./assets/images/dotsstudio.png"),
-      date: "June 2018 – Sept 2020",
+      date: "Jan 2019 – Sept 2020",
       desc: ".",
       descBullets: [
-        "Main role was to look over different projects, design UI of games, functionality and test" //, 
+        "My primariy focus was on developing comprehensive mobile games for both iOS and Android platforms", 
+        "My main responsibilities centered around user interface (UI) design and front-end development."
         //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
@@ -171,14 +172,14 @@ const workExperiences = {
       role: "Front-End Developer",
       company: "PLC Group",
       companylogo: require("./assets/images/PLC.png"),
-      date: "May 2017 – May 2018",
-      desc: "My main role was front end development"
+      date: "Dec 2017 – Sept 2018",
+      desc: "Designing of User-Interface of Website and Applications."
     },
     {
       role: "Intern",
       company: "Alliance Health Care",
       companylogo: require("./assets/images/AHL.png"),
-      date: "Jan 2015 – Sep 2015",
+      date: "July 2016 – Sep 2016",
       desc: "I was an intern in the IT department, My main role was to look over different stuff, including the maintainance of their website"
     }
   ]
@@ -357,7 +358,7 @@ const twitterDetails = {
   display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
