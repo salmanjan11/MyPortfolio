@@ -113,7 +113,7 @@ const educationInfo = {
       logo: require("./assets/images/IPB.png"),
       subHeader: "Master in Informatics",
       duration: "September 2021 - October 2022",
-      desc: "I was an exchange student in IPB on Eramus Plus Program",
+      desc: "I was an exchange student in IPB on Erasmus Plus Program",
       descBullets: [
         "Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics"
       ]
@@ -135,17 +135,18 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Programming",
+      progressPercentage: "80%"
+    },
+    {
+      Stack: "Designing", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
       progressPercentage: "70%"
-    },
-    {
-      Stack: "Programming",
-      progressPercentage: "60%"
     }
+
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
