@@ -148,9 +148,9 @@ const workExperiences = {
     {
       role: "Co-Founder",
       company: "DOTs Studio",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      companylogo: require("./assets/images/dotsstudio.png"),
+      date: "June 2018 – Sept 2020",
+      desc: ".",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -159,16 +159,16 @@ const workExperiences = {
     {
       role: "Front-End Developer",
       company: "PLC Group",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/PLC.png"),
       date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "My main role was front end development"
     },
     {
       role: "Intern",
       company: "Alliance Health Care",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/AHL.png"),
       date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "I was an intern in the IT department, My main role was to look over different stuff, including the maintainance of their website"
     }
   ]
 };
