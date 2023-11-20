@@ -104,8 +104,8 @@ const educationInfo = {
       duration: "September 2020 - October 2023",
       desc: "My final research was on Brain tumour segmentation using Deep Learning Techniques",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "I was an international student in University of Brescia, where is studied different courses related to Informatics and Telecommunications"
+
       ]
     },
     {
@@ -163,9 +163,8 @@ const workExperiences = {
       date: "Jan 2019 – Sept 2020",
       desc: ".",
       descBullets: [
-        "My primariy focus was on developing comprehensive mobile games for both iOS and Android platforms", 
-        "My main responsibilities centered around user interface (UI) design and front-end development."
-        //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "My primariy focus was on developing comprehensive mobile games for both iOS and Android platforms" //,
+        //"My main responsibilities centered around user interface (UI) design and front-end development."
       ]
     },
     {
