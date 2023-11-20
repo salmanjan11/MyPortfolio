@@ -99,16 +99,6 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Brescia",
-      logo: require("./assets/images/IPB.png"),
-      subHeader: "Master in Informatics",
-      duration: "September 2021 - October 2022",
-      desc: "I was an exchange student in IPB on Eramus Plus Program",
-      descBullets: [
-        "Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics"
-      ]
-    },
-    {
-      schoolName: "Polytechnic Institute of Bragança ",
       logo: require("./assets/images/unibs.png"),
       subHeader: "Master in Telecommunications and Multimedia",
       duration: "September 2020 - October 2023",
@@ -117,7 +107,17 @@ const educationInfo = {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
-    }
+    },
+    {
+      schoolName: "Polytechnic Institute of Bragança ",
+      logo: require("./assets/images/IPB.png"),
+      subHeader: "Master in Informatics",
+      duration: "September 2021 - October 2022",
+      desc: "I was an exchange student in IPB on Eramus Plus Program",
+      descBullets: [
+        "Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics"
+      ]
+    },
     {
       schoolName: "University of Engineering and Technology, Peshawar",
       logo: require("./assets/images/UET.png"),
