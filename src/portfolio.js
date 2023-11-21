@@ -104,7 +104,7 @@ const educationInfo = {
       duration: "September 2020 - October 2023",
       desc: "My final research was on Brain tumour segmentation using Deep Learning Techniques",
       descBullets: [
-        "I was an international student in University of Brescia, where is studied different courses related to Informatics and Telecommunications"
+        "I was an international student in University of Brescia, where I studied different courses related to Informatics and Telecommunications"
 
       ]
     },
