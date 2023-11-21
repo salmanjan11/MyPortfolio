@@ -54,9 +54,9 @@ const skillsSection = {
     emoji(
       "⚡ Develop tools and apps that uses AI & DL algorithms"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Using DL in Healthcare"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Using AL & DL in Image Processing"
     )
   ],
 
@@ -161,9 +161,8 @@ const workExperiences = {
       company: "Dots Studio",
       companylogo: require("./assets/images/dotsstudio.png"),
       date: "Jan 2019 – Sept 2020",
-      desc: ".",
+      desc: "My primariy focus was on developing comprehensive mobile games for both iOS and Android platforms",
       descBullets: [
-        "My primariy focus was on developing comprehensive mobile games for both iOS and Android platforms" //,
         //"My main responsibilities centered around user interface (UI) design and front-end development."
       ]
     },
