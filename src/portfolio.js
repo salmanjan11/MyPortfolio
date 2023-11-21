@@ -123,8 +123,8 @@ const educationInfo = {
       logo: require("./assets/images/UET.png"),
       subHeader: "Bachelor of Science in Computer Systems Engineering",
       duration: "September 2013 - October 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Operating Systems, Computer Architecure, Signal and Systems, Computer Security, Digital System Design ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: "Ranked top 10% in the program.",
+      descBullets: ["Took courses about Software Engineering, Operating Systems, Computer Architecure, Signal and Systems, Computer Security, Digital System Design"]
     }
   ]
 };
