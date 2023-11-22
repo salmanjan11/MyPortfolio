@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Computer Engineer, exploring the wonders of AI, ML, and deep learning, explored IoTS and Computer Security. Ready to explore the tech world with me?."
   ),
   resumeLink:
-    "https://drive.google.com/file/", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1MsUQyRq4WmBFzK-nUvAr6a2NHcaZFMxX/view?usp=drive_link/", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -140,7 +140,7 @@ const techStack = {
     },
     {
       Stack: "Designing", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
@@ -188,7 +188,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
