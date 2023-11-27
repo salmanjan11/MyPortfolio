@@ -54,9 +54,9 @@ const skillsSection = {
     emoji(
       "⚡ Develop tools and apps that uses AI & DL algorithms"
     ),
-    emoji("⚡ Using DL in Healthcare"),
+    emoji("⚡ Using DL algorithms in Healthcare"),
     emoji(
-      "⚡ Using AI & DL in Image Processing"
+      "⚡ "
     )
   ],
 
@@ -87,6 +87,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "AI",
+      fontAwesomeClassname: "fa-light fa-microchip-ai"
     }
   ],
   display: true // Set false to hide this section, defaults to true
