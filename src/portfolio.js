@@ -56,7 +56,7 @@ const skillsSection = {
     ),
     emoji("⚡ Using DL in Healthcare"),
     emoji(
-      "⚡ Using AL & DL in Image Processing"
+      "⚡ Using AI & DL in Image Processing"
     )
   ],
 
