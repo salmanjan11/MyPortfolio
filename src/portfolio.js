@@ -23,7 +23,7 @@ const greeting = {
   username: "Salman Jan",
   title: "Hi all, I'm Salman",
   subTitle: emoji(
-    "A passionate Computer Engineer, exploring the wonders of AI, ML, and deep learning, explored IoTS and Computer Security. Ready to explore the tech world with me?."
+    "A passionate Computer Engineer, exploring the wonders of AI, ML, and deep learning. Also exploring IoTS and Computer Security. Ready to explore the tech world with me?."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1MsUQyRq4WmBFzK-nUvAr6a2NHcaZFMxX/view?usp=drive_link/", // Set to empty to hide the button
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "AN AI & DEEP LEARNING ENTHUSIAST WHO WANTS TO EXPLORE MORE OF AI & DL",
+  subTitle: "AN AI & DEEP LEARNING ENTHUSIAST WHO WANTS TO EXPLORE MORE OF ARTIFICIAL INTELLIGENT WORLD",
   skills: [
     emoji(
       "⚡ Develop tools and apps that uses AI & DL algorithms"
