@@ -54,10 +54,8 @@ const skillsSection = {
     emoji(
       "⚡ Develop tools and apps that uses AI & DL algorithms"
     ),
-    emoji("⚡ Using DL algorithms in Healthcare"),
-    emoji(
-      "⚡ "
-    )
+    emoji("⚡ Using DL algorithms in Healthcare")//,
+    //emoji("⚡")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
