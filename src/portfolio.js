@@ -34,10 +34,10 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/salmanjan11",
-  linkedin: "https://www.linkedin.com/in/salmanjan11 /",
+  linkedin: "https://www.linkedin.com/in/salman-jan-81900057/",
   gmail: "salmanjan.ipb@gmail.com",
-  gitlab: "https://gitlab.com/salmanjan11",
-  facebook: "https://www.facebook.com/salmanjan11",
+  //gitlab: "https://gitlab.com/salmanjan11",
+  //facebook: "https://www.facebook.com/salmanjan11",
   //medium: "https://medium.com/@",
   //stackoverflow: "https://stackoverflow.com/",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -69,10 +69,6 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
     },
     {
       skillName: "sql-database",
@@ -347,8 +343,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+39----------",
-  email_address: "salmanjan@gmail.com"
+  number: "+393517892015"
+  email_address: "salmanjan.ipb@gmail.com"
 };
 
 // Twitter Section
