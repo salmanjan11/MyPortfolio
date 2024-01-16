@@ -49,8 +49,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "AN AI & DEEP LEARNING ENTHUSIAST WHO WANTS TO EXPLORE MORE OF ARTIFICIAL INTELLIGENT WORLD",
+  subTitle: "AN AI & DEEP LEARNING ENTHUSIAST WHO IS EXPLORING MORE OF THE ARTIFICIAL INTELLIGENT WORLD",
   skills: [
+    emoji(
+      "⚡ Develop ML & DL algorithms for Classification Tasks"
+    ),
     emoji(
       "⚡ Develop tools and apps that uses AI & DL algorithms"
     ),
@@ -100,10 +103,9 @@ const educationInfo = {
       logo: require("./assets/images/unibs.png"),
       subHeader: "Master in Telecommunications and Multimedia",
       duration: "September 2020 - October 2023",
-      desc: "My final research was on Brain tumour segmentation using Deep Learning Techniques",
+      desc: "My academic pursuits encompassed remote sensing with a specialized focus on deep learning and machine learning applications. Furthermore, I acquired expertise in Network Security, Information Theory, Digital Multimedia Channel Communications, Health Information Systems, and Wireless Communications. This comprehensive educational background equips me with a multifaceted skill set, positioning me to navigate and contribute effectively to the intricate landscape of contemporary telecommunications.",
       descBullets: [
-        "I was an international student in University of Brescia, where I studied different courses related to Informatics and Telecommunications"
-
+        "My culminating research endeavor centered on the segmentation of brain tumours through the application of advanced Deep Learning Techniques"
       ]
     },
     {
@@ -111,9 +113,10 @@ const educationInfo = {
       logo: require("./assets/images/IPB.png"),
       subHeader: "Master in Informatics",
       duration: "September 2021 - October 2022",
-      desc: "I was an exchange student in IPB on Erasmus Plus Program",
+      desc: "During my two semesters at the Polytechnic Institute of Bragança (IPB), I had the privilege of engaging in a diverse array of Informatics courses. These included studies in the Internet of Things (IoT) and Intelligent Systems, where I acquired foundational knowledge in Artificial Intelligence, Deep Learning, and Machine Learning. Additionally, I delved into Advanced Computing, focusing on parallel programming techniques. My coursework extended to Computer Security, encompassing strategies to safeguard computer systems from cyber threats and mitigate potential risks. Furthermore, I undertook a comprehensive course in Software Development, rounding out my education with a holistic understanding of various facets within the field of Informatics.",
       descBullets: [
-        "Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics"
+        "I was an exchange student in IPB on Erasmus Plus Program" 
+        //"Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics"
       ]
     },
     {
