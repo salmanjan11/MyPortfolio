@@ -181,7 +181,7 @@ const workExperiences = {
       company: "Alliance Health Care",
       companylogo: require("./assets/images/AHL.png"),
       date: "July 2016 – Sep 2016",
-      desc: "I was an intern in the IT department, My main role was to look over different stuff, including the maintainance of their website"
+      desc: "During my IT internship, I played a crucial role in overseeing operations, particularly focusing on maintaining the organization's website."
     }
   ]
 };
