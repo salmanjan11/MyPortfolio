@@ -103,9 +103,10 @@ const educationInfo = {
       logo: require("./assets/images/unibs.png"),
       subHeader: "Master in Telecommunications and Multimedia",
       duration: "September 2020 - October 2023",
-      desc: "My academic pursuits encompassed remote sensing with a specialized focus on deep learning and machine learning applications. Furthermore, I acquired expertise in Network Security, Information Theory, Digital Multimedia Channel Communications, Health Information Systems, and Wireless Communications. This comprehensive educational background equips me with a multifaceted skill set, positioning me to navigate and contribute effectively to the intricate landscape of contemporary telecommunications.",
+      desc: "My culminating research endeavor centered on the segmentation of brain tumours through the application of advanced Deep Learning Techniques",
       descBullets: [
-        "My culminating research endeavor centered on the segmentation of brain tumours through the application of advanced Deep Learning Techniques"
+        "My academic pursuits encompassed remote sensing with a specialized focus on deep learning and machine learning applications. Furthermore, I acquired expertise in Network Security, Information Theory, Digital Multimedia Channel Communications, Health Information Systems, and Wireless Communications. This comprehensive educational background equips me with a multifaceted skill set, positioning me to navigate and contribute effectively to the intricate landscape of contemporary telecommunications."
+        
       ]
     },
     {
@@ -113,10 +114,11 @@ const educationInfo = {
       logo: require("./assets/images/IPB.png"),
       subHeader: "Master in Informatics",
       duration: "September 2021 - October 2022",
-      desc: "During my two semesters at the Polytechnic Institute of Bragança (IPB), I had the privilege of engaging in a diverse array of Informatics courses. These included studies in the Internet of Things (IoT) and Intelligent Systems, where I acquired foundational knowledge in Artificial Intelligence, Deep Learning, and Machine Learning. Additionally, I delved into Advanced Computing, focusing on parallel programming techniques. My coursework extended to Computer Security, encompassing strategies to safeguard computer systems from cyber threats and mitigate potential risks. Furthermore, I undertook a comprehensive course in Software Development, rounding out my education with a holistic understanding of various facets within the field of Informatics.",
+      desc: "Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics",
       descBullets: [
-        "I was an exchange student in IPB on Erasmus Plus Program" 
-        //"Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics"
+        //"I was an exchange student in IPB on Erasmus Plus Program" 
+        "During my two semesters at the Polytechnic Institute of Bragança (IPB), I had the privilege of engaging in a diverse array of Informatics courses. These included studies in the Internet of Things (IoT) and Intelligent Systems, where I acquired foundational knowledge in Artificial Intelligence, Deep Learning, and Machine Learning. Additionally, I delved into Advanced Computing, focusing on parallel programming techniques. My coursework extended to Computer Security, encompassing strategies to safeguard computer systems from cyber threats and mitigate potential risks. Furthermore, I undertook a comprehensive course in Software Development, rounding out my education with a holistic understanding of various facets within the field of Informatics."
+        
       ]
     },
     {
