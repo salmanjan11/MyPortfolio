@@ -105,7 +105,9 @@ const educationInfo = {
       duration: "September 2020 - October 2023",
       desc: "My culminating research endeavor centered on the segmentation of brain tumours through the application of advanced Deep Learning Techniques",
       descBullets: [
-        "My academic pursuits encompassed remote sensing with a specialized focus on deep learning and machine learning applications. Furthermore, I acquired expertise in Network Security, Information Theory, Digital Multimedia Channel Communications, Health Information Systems, and Wireless Communications. This comprehensive educational background equips me with a multifaceted skill set, positioning me to navigate and contribute effectively to the intricate landscape of contemporary telecommunications."
+        "Specialized in remote sensing with a focus on deep learning and machine learning applications.",
+        "Developed expertise in Network Security, Information Theory, Digital Multimedia Channel Communications, Health Information Systems, and Wireless Communications.", 
+        "Equipped with a diverse skill set to navigate and contribute effectively to contemporary telecommunications."
         
       ]
     },
