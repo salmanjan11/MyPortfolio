@@ -119,8 +119,10 @@ const educationInfo = {
       desc: "Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics",
       descBullets: [
         //"I was an exchange student in IPB on Erasmus Plus Program" 
-        "During my two semesters at the Polytechnic Institute of Bragança (IPB), I had the privilege of engaging in a diverse array of Informatics courses. These included studies in the Internet of Things (IoT) and Intelligent Systems, where I acquired foundational knowledge in Artificial Intelligence, Deep Learning, and Machine Learning. Additionally, I delved into Advanced Computing, focusing on parallel programming techniques. My coursework extended to Computer Systems Security, encompassing strategies to safeguard computer systems from cyber threats and mitigate potential risks. Furthermore, I undertook a comprehensive course in Software Development, rounding out my education with a holistic understanding of various facets within the field of Informatics."
-        
+        "Studied diverse Informatics courses at Polytechnic Institute of Bragança (IPB).",
+        "Studied Internet of Things (IoT) and Intelligent Systems, gaining foundational knowledge in AI, Deep Learning, and Machine Learning.",
+        "Explored Advanced Computing with a focus on parallel programming.",
+        "Covered Computer Systems Security and completed a comprehensive Software Development course for a holistic understanding of Informatics."
       ]
     },
     {
@@ -129,7 +131,11 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Systems Engineering",
       duration: "September 2013 - October 2017",
       desc: "Ranked top 10% in the program.",
-      descBullets: ["I successfully completed a comprehensive array of courses covering foundational topics like Basics of Computer Programming and Object-Oriented Programming, alongside advanced subjects including Software Engineering, Operating Systems, Computer Organization and Architecture, Web Development, Database Management Systems, Signal and Systems, Computer Security, Digital System Design, and Game Development. This diverse curriculum has equipped me with a broad spectrum of skills, notably in programming, while fostering proficiency in various other areas."]
+      descBullets: ["Completed foundational courses in Computer Programming and Object-Oriented Programming.",
+      "Advanced studies in Software Engineering, Operating Systems, and Computer Organization.",
+      "Explored Web Development, Database Management Systems, and Signal and Systems.",
+      "Specialized in Computer Security, Digital System Design, and Game Development.",
+      "Acquired a diverse skill set with a focus on programming and proficiency in various areas."]
     }
   ]
 };
