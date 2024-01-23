@@ -87,11 +87,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C",
-      fontAwesomeClassname: "fas fa-code"
+      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "AI",
-      fontAwesomeClassname: "fal fa-microchip-ai"
+      fontAwesomeClassname: "fas fa-microchip"
     },
     {
       skillName: "Terminal",
@@ -100,11 +100,26 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "GitHub",
       fontAwesomeClassname: "fab fa-github"
+    },
+    {
+      skillName: "Stack Overflow",
+      fontAwesomeClassname: "fab fa-stack-overflow"
+    },
+    {
+      skillName: "Unity",
+      fontAwesomeClassname: "fab fa-unity"
+    },
+    {
+      skillName: "R Project",
+      fontAwesomeClassname: "fab fa-r-project"
     }
 
     //<i class="fa-solid fa-code"></i>
    //<i class="fa-solid fa-terminal"></i>
    //<i class="fa-brands fa-github"></i>
+   // <i class="fa-brands fa-stack-overflow"></i>
+   //<i class="fa-brands fa-unity"></i>
+   //<i class="fa-brands fa-r-project"></i>
    
   ],
   display: true // Set false to hide this section, defaults to true
