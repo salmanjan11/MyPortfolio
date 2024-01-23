@@ -87,19 +87,19 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C",
-      fontAwesomeClassname: "fa-solid fa-code"
+      fontAwesomeClassname: "fas fa-code"
     },
     {
       skillName: "AI",
-      fontAwesomeClassname: "fa-light fa-microchip-ai"
+      fontAwesomeClassname: "fal fa-microchip-ai"
     },
     {
       skillName: "Terminal",
-      fontAwesomeClassname: "fa-solid fa-terminal"
+      fontAwesomeClassname: "fas fa-terminal"
     },
     {
       skillName: "GitHub",
-      fontAwesomeClassname: "fa-brands fa-github"
+      fontAwesomeClassname: "fab fa-github"
     }
 
     //<i class="fa-solid fa-code"></i>
