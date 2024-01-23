@@ -86,9 +86,26 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     },
     {
+      skillName: "C",
+      fontAwesomeClassname: "fa-solid fa-code"
+    },
+    {
       skillName: "AI",
       fontAwesomeClassname: "fa-light fa-microchip-ai"
+    },
+    {
+      skillName: "Terminal",
+      fontAwesomeClassname: "fa-solid fa-terminal"
+    },
+    {
+      skillName: "GitHub",
+      fontAwesomeClassname: "fa-brands fa-github"
     }
+
+    //<i class="fa-solid fa-code"></i>
+   //<i class="fa-solid fa-terminal"></i>
+   //<i class="fa-brands fa-github"></i>
+   
   ],
   display: true // Set false to hide this section, defaults to true
 };
