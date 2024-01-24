@@ -23,10 +23,10 @@ const greeting = {
   username: "Salman Jan",
   title: "Hi all, I'm Salman",
   subTitle: emoji(
-    "A passionate Computer Engineer, exploring the wonders of AI, ML, and deep learning. Also exploring IoTS and Computer Security. Ready to explore the tech world with me?."
+    "A passionate Computer Engineer, exploring the wonders of Artificial Intelligence, Machine Learning, and Deep Learning. Concurrently, exploring IoTS and Cyber Security. Ready to explore the tech world with me?"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1MsUQyRq4WmBFzK-nUvAr6a2NHcaZFMxX/view?usp=drive_link/", // Set to empty to hide the button
+    "https://drive.google.com/", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -78,20 +78,20 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
-    },
-    {
-      skillName: "C",
-      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "AI",
       fontAwesomeClassname: "fas fa-microchip"
+    }, 
+    {
+      skillName: "C",
+      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "Terminal",
