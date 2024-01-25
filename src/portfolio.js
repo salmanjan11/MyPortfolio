@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Computer Engineer, exploring the wonders of Artificial Intelligence, Machine Learning, and Deep Learning. Concurrently, exploring IoTS and Cyber Security. Ready to explore the tech world with me?"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/13kDiW1pXAtLOpwCFVAMmNOPBf5o-bJZj/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1IkC_OxcQpvQWDPJ_gcFHtagxO6IS8KW4/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
