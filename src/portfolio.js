@@ -49,14 +49,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "AN AI & DEEP LEARNING ENTHUSIAST WHO IS EXPLORING MORE OF THE ARTIFICIAL INTELLIGENT WORLD",
+  subTitle: "A MACHINE LEARNING & DEEP LEARNING ENTHUSIAST WHO IS EXPLORING THE WORLD OF ARTIFICIAL INTELLIGENCE ",
   skills: [
     emoji(
-      "⚡ Develop ML & DL algorithms for Classification Tasks"
+      "⚡ Developing ML & DL algorithms for Classification Tasks"
     ),
-    emoji(
-      "⚡ Develop tools and apps that uses AI & DL algorithms"
-    ),
+   //emoji(
+   //   "⚡ Developing tools and apps that use AI & DL algorithms"
+   // ),"""
     emoji("⚡ Using DL algorithms in Healthcare")//,
     //emoji("⚡")
   ],
@@ -89,6 +89,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "AI",
       fontAwesomeClassname: "fas fa-microchip"
     }, 
+    {
+      skillName: "C",
+      fontAwesomeClassname: "fas fa-c"
+    },
     {
       skillName: "C",
       fontAwesomeClassname: "fas fa-c"
