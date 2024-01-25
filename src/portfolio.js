@@ -94,12 +94,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-c"
     },
     {
-      skillName: "C",
-      fontAwesomeClassname: "fas fa-c"
-    },
-    {
       skillName: "Terminal",
       fontAwesomeClassname: "fas fa-terminal"
+    },
+    {
+      skillName: "C",
+      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "GitHub",
