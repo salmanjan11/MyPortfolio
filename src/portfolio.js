@@ -90,16 +90,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-microchip"
     }, 
     {
-      skillName: "C",
-      fontAwesomeClassname: "fa-solid fa-c"
-    },
-    {
       skillName: "Terminal",
       fontAwesomeClassname: "fas fa-terminal"
-    },
-    {
-      skillName: "C",
-      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "GitHub",
