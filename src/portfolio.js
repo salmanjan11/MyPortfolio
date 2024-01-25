@@ -91,7 +91,7 @@ https://fontawesome.com/icons?d=gallery */
     }, 
     {
       skillName: "C",
-      fontAwesomeClassname: "fas fa-C"
+      fontAwesomeClassname: "fa-solid fa-c"
     },
     {
       skillName: "Terminal",
