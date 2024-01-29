@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/salmanjan11",
   linkedin: "https://www.linkedin.com/in/salman-jan-81900057/",
   gmail: "salmanjan.ipb@gmail.com",
-  //gitlab: "https://gitlab.com/salmanjan11",
+  gitlab: "https://gitlab.com/salmanjan11",
   //facebook: "https://www.facebook.com/salmanjan11",
   //medium: "https://medium.com/@",
   //stackoverflow: "https://stackoverflow.com/",
@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A MACHINE LEARNING & DEEP LEARNING ENTHUSIAST WHO IS EXPLORING THE WORLD OF ARTIFICIAL INTELLIGENCE ",
+  subTitle: "A TECH ENTHUSIAST WHO IS EXPLORING THE WORLD OF MACHINE LEARNING & DEEP LEARNING, AND CYBER SECURITY",
   skills: [
     emoji(
       "⚡ Developing ML & DL algorithms for Classification Tasks"
