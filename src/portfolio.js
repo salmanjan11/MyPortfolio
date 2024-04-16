@@ -117,7 +117,7 @@ https://fontawesome.com/icons?d=gallery */
    // <i class="fa-brands fa-stack-overflow"></i>
    //<i class="fa-brands fa-unity"></i>
    //<i class="fa-brands fa-r-project"></i>
-   
+   //<i class="fa-brands fa-golang"></i>
   ],
   display: true // Set false to hide this section, defaults to true
 };
