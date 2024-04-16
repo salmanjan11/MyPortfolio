@@ -195,6 +195,16 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Developer",
+      company: "Area 9000",
+      companylogo: require("./assets/images/area-9000-medio.jpg"),
+      date: "March 2024 – onwards",
+      desc: "My primary focus revolves around server-side development, where I specialize in crafting robust and scalable backend components for web applications and services.",
+      descBullets: [
+        //"My main responsibilities centered around user interface (UI) design and front-end development."
+      ]
+    },
+    {
       role: "Co-Founder",
       company: "Dots Studio",
       companylogo: require("./assets/images/dotsstudio.png"),
