@@ -68,7 +68,7 @@ https://fontawesome.com/icons?d=gallery */
     
     {
       skillName: "Golang",
-      fontAwesomeClassname: "fab fa-golang"
+      fontAwesomeClassname: "fa-brands fa-golang"
     },
     {
       skillName: "css3",
