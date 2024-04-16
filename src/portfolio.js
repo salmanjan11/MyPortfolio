@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/salmanjan11",
   linkedin: "https://www.linkedin.com/in/salman-jan-81900057/",
   gmail: "salmanjan.ipb@gmail.com",
-  gitlab: "https://gitlab.com/salmanjan11",
+  gitlab: "https://gitlab.com/salmanjan",
   //facebook: "https://www.facebook.com/salmanjan11",
   //medium: "https://medium.com/@",
   //stackoverflow: "https://stackoverflow.com/",
@@ -65,9 +65,10 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
+    
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Golang",
+      fontAwesomeClassname: "fab fa-golang"
     },
     {
       skillName: "css3",
@@ -197,7 +198,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Area 9000",
-      companylogo: require("./assets/images/area-9000-medio.jpg"),
+      companylogo: require("./assets/images/area-9000.png"),
       date: "March 2024 – onwards",
       desc: "My primary focus revolves around server-side development, where I specialize in crafting robust and scalable backend components for web applications and services.",
       descBullets: [
