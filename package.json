@@ -1,7 +1,29 @@
 {
-  "homepage": "https://developerfolio.js.org/",
-  "name": "developerfolio",
-  "version": "0.1.0",
+  "homepage": "https://sjsportfolio.netlify.app/",
+  "name": "salman-jan-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website showcasing skills in AI, ML, and software development",
+  "author": {
+    "name": "Salman Jan",
+    "email": "salmanjan.ipb@gmail.com",
+    "url": "https://sjsportfolio.netlify.app/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salmanjan11/MyPortfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "computer-engineer",
+    "artificial-intelligence",
+    "machine-learning",
+    "deep-learning",
+    "iot-security",
+    "cyber-security",
+    "web-development"
+  ],
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "colorthief": "^2.3.0",
@@ -23,12 +45,18 @@
   "scripts": {
     "predeploy": "npm run build",
     "start": "node fetch.js && react-scripts start",
+    "start:dev": "react-scripts start",
     "build": "node fetch.js && react-scripts build",
+    "build:analyze": "npm run build && npx serve -s build",
     "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
+    "test:coverage": "react-scripts test --coverage --watchAll=false",
     "eject": "react-scripts eject",
     "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
-    "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
+    "check-format": "prettier -c \"./**/*.{js,css,json,scss}\"",
+    "lint": "eslint src/",
+    "lint:fix": "eslint src/ --fix",
+    "clean": "rm -rf build node_modules package-lock.json && npm install"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -53,6 +81,6 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "dotenv": "^8.2.0",
-    "prettier": "^2.3.1"
+    "prettier": "^2.8.8"
   }
 }

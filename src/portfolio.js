@@ -37,10 +37,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/salman-jan-81900057/",
   gmail: "salmanjan.ipb@gmail.com",
   gitlab: "https://gitlab.com/salmanjan",
-  //facebook: "https://www.facebook.com/salmanjan11",
-  //medium: "https://medium.com/@",
-  //stackoverflow: "https://stackoverflow.com/",
-  // Instagram, Twitter and Kaggle are also supported in the links!
+  // Instagram, Twitter, Facebook, Medium, Stack Overflow and Kaggle are also supported!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
@@ -49,15 +46,14 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A TECH ENTHUSIAST WHO IS EXPLORING THE WORLD OF MACHINE LEARNING & DEEP LEARNING, AND CYBER SECURITY",
+  subTitle:
+    "A TECH ENTHUSIAST WHO IS EXPLORING THE WORLD OF MACHINE LEARNING & DEEP LEARNING, AND CYBER SECURITY",
   skills: [
-    emoji(
-      "⚡ Developing ML & DL algorithms for Classification Tasks"
-    ),
-   //emoji(
-   //   "⚡ Developing tools and apps that use AI & DL algorithms"
-   // ),"""
-    emoji("⚡ Using DL algorithms in Healthcare")//,
+    emoji("⚡ Developing ML & DL algorithms for Classification Tasks"),
+    //emoji(
+    //   "⚡ Developing tools and apps that use AI & DL algorithms"
+    // ),"""
+    emoji("⚡ Using DL algorithms in Healthcare") //,
     //emoji("⚡")
   ],
 
@@ -65,7 +61,6 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    
     {
       skillName: "Golang",
       fontAwesomeClassname: "fab fa-golang"
@@ -89,7 +84,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "AI",
       fontAwesomeClassname: "fas fa-microchip"
-    }, 
+    },
     {
       skillName: "Terminal",
       fontAwesomeClassname: "fas fa-terminal"
@@ -110,14 +105,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "R Project",
       fontAwesomeClassname: "fab fa-r-project"
     }
-
-    //<i class="fa-solid fa-code"></i>
-   //<i class="fa-solid fa-terminal"></i>
-   //<i class="fa-brands fa-github"></i>
-   // <i class="fa-brands fa-stack-overflow"></i>
-   //<i class="fa-brands fa-unity"></i>
-   //<i class="fa-brands fa-r-project"></i>
-   //<i class="fa-brands fa-golang"></i>
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -146,7 +133,7 @@ const educationInfo = {
       duration: "September 2021 - October 2022",
       desc: "Studied in IPB for 2 semester, which gave me the oppurtunity to study different courses in the field of Informatics",
       descBullets: [
-        //"I was an exchange student in IPB on Erasmus Plus Program" 
+        //"I was an exchange student in IPB on Erasmus Plus Program"
         "Studied diverse Informatics courses at Polytechnic Institute of Bragança (IPB).",
         "Studied Internet of Things (IoT) and Intelligent Systems, gaining foundational knowledge in AI, Deep Learning, and Machine Learning.",
         "Explored Advanced Computing with a focus on parallel programming.",
@@ -159,11 +146,13 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Systems Engineering",
       duration: "September 2013 - October 2017",
       desc: "Ranked top 10% in the program.",
-      descBullets: ["Completed foundational courses in Computer Programming and Object-Oriented Programming.",
-      "Advanced studies in Software Engineering, Operating Systems, and Computer Organization.",
-      "Explored Web Development, Database Management Systems, and Signal and Systems.",
-      "Specialized in Computer Security, Digital System Design, and Game Development.",
-      "Acquired a diverse skill set with a focus on programming and proficiency in various areas."]
+      descBullets: [
+        "Completed foundational courses in Computer Programming and Object-Oriented Programming.",
+        "Advanced studies in Software Engineering, Operating Systems, and Computer Organization.",
+        "Explored Web Development, Database Management Systems, and Signal and Systems.",
+        "Specialized in Computer Security, Digital System Design, and Game Development.",
+        "Acquired a diverse skill set with a focus on programming and proficiency in various areas."
+      ]
     }
   ]
 };
@@ -185,7 +174,6 @@ const techStack = {
       Stack: "Backend",
       progressPercentage: "70%"
     }
-
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -199,21 +187,17 @@ const workExperiences = {
       role: "Software Developer",
       company: "Area 9000",
       companylogo: require("./assets/images/area-9000.png"),
-      date: "March 2024 – onwards",
+      date: "March 2024 – July 2025",
       desc: "My primary focus revolves around server-side development, where I specialize in crafting robust and scalable backend components for web applications and services.",
-      descBullets: [
-        //"My main responsibilities centered around user interface (UI) design and front-end development."
-      ]
+      descBullets: []
     },
     {
       role: "Co-Founder",
       company: "Dots Studio",
       companylogo: require("./assets/images/dotsstudio.png"),
       date: "Jan 2019 – Sept 2020",
-      desc: "My primariy focus was on developing comprehensive mobile games for both iOS and Android platforms",
-      descBullets: [
-        //"My main responsibilities centered around user interface (UI) design and front-end development."
-      ]
+      desc: "My primary focus was on developing comprehensive mobile games for both iOS and Android platforms",
+      descBullets: []
     },
     {
       role: "Front-End Developer",
@@ -384,9 +368,7 @@ const podcastSection = {
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
-  podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory"
-  ],
+  podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory"],
   display: false // Set false to hide this section, defaults to true
 };
 
